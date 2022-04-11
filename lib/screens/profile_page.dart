@@ -70,7 +70,7 @@ class _ProfilePageState extends State<ProfilePage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: const [
                         Text(
-                          'Otabek Abdusamatov',
+                          'Mahammadjonov Abduaxad',
                           style: TextStyle(
                             color: BillingColor.lightGreenColor,
                             fontSize: 16,
@@ -79,7 +79,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         ),
                         SizedBox(height: 4),
                         Text(
-                          'Graphic designer • IQ Education',
+                          'Flutter Developer',
                           style: TextStyle(
                             color: Color(0xffE7E7E7),
                             fontSize: 12,
@@ -103,7 +103,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      '16.09.2001',
+                      '04.07.2001',
                       style: BillingThemes.textTheme.bodyText2,
                     ),
                   ],
@@ -121,7 +121,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      '+998 97 721 06 88',
+                      '+998 99 047 59 88',
                       style: BillingThemes.textTheme.bodyText2,
                     ),
                   ],
@@ -139,7 +139,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      'predatorhunter041@gmail.com',
+                      'fazilat0569@gmail.com',
                       style: BillingThemes.textTheme.bodyText2,
                     ),
                   ],
