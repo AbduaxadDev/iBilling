@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
-import '../models/user_model.dart';
-import '../repositories/contract_repository.dart';
+import 'package:ibilling/models/user_model.dart';
+import 'package:ibilling/repositories/contract_rep.dart';
 import 'package:jiffy/jiffy.dart';
 import 'package:meta/meta.dart';
 import 'package:equatable/equatable.dart';
