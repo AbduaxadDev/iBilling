@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import '../cubit/main_page/main_page_cubit.dart';
-import '../themes/colors.dart';
+import 'package:ibilling/consts/colors.dart';
+import 'package:ibilling/cubit/main_page_cubit.dart';
+import 'package:ibilling/screens/save_page.dart';
+import 'package:ibilling/widget/chose_type.dart';
 import 'contract_page.dart';
 import 'history_page.dart';
 import 'profile_page.dart';
-import 'saved_page.dart';
-import '../widgets/choose_type.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:easy_localization/easy_localization.dart';
 

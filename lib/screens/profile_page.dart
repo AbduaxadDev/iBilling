@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ibilling/themes/colors.dart';
-import 'package:ibilling/themes/theme.dart';
+import 'package:ibilling/consts/colors.dart';
+import 'package:ibilling/consts/theme.dart';
 import 'package:easy_localization/easy_localization.dart';
 
 class ProfilePage extends StatefulWidget {

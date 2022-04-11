@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import '../../bloc/date_bloc.dart';
-import '../../bloc/new_contract/bloc/new_contract_bloc.dart';
-import '../../consts/class_const.dart';
-import '../../models/user_model.dart';
-import '../../themes/colors.dart';
-import '../../themes/theme.dart';
-import '../../widgets/app_bar.dart';
-import '../../widgets/checkbox.dart';
-import '../../widgets/new_contract_textfield.dart';
+import 'package:ibilling/bloc/data/data_bloc.dart';
+import 'package:ibilling/bloc/new_contract/new_contract_bloc.dart';
+import 'package:ibilling/consts/colors.dart';
+import 'package:ibilling/consts/const.dart';
+import 'package:ibilling/consts/theme.dart';
+import 'package:ibilling/models/user_model.dart';
+import 'package:ibilling/widget/appbar.dart';
+import 'package:ibilling/widget/chekbox.dart';
+import 'package:ibilling/widget/new_contract_textfield.dart';
 import 'package:jiffy/jiffy.dart';
 import 'package:easy_localization/easy_localization.dart';
 

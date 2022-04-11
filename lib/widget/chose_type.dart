@@ -3,6 +3,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:ibilling/consts/colors.dart';
 import 'package:ibilling/consts/theme.dart';
 import 'package:ibilling/cubit/main_page_cubit.dart';
+import 'package:ibilling/screens/new_contract.dart';
 import 'package:ibilling/screens/new_invoice.dart';
 import 'package:provider/src/provider.dart';
 import 'package:easy_localization/easy_localization.dart';

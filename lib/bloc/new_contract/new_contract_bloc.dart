@@ -1,8 +1,7 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
+import 'package:ibilling/repositories/contract_rep.dart';
 import '../../../models/user_model.dart';
-import '../../../repositories/contract_repository.dart';
-
 part 'new_contract_event.dart';
 part 'new_contract_state.dart';
 

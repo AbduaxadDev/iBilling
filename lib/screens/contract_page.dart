@@ -6,6 +6,8 @@ import 'package:ibilling/bloc/new_invoice/new_invoice_bloc.dart';
 import 'package:ibilling/consts/colors.dart';
 import 'package:ibilling/widget/appbar.dart';
 import 'package:ibilling/widget/calendar/calendar.dart';
+import 'package:ibilling/widget/contract_card.dart';
+import 'package:ibilling/widget/invoice_card.dart';
 
 
 class ContractPage extends StatefulWidget {
